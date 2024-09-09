@@ -1,6 +1,6 @@
 package com.neu.edu.stocktrading.model;
 
-import org.hibernate.validator.constraints.NotEmpty;
+//import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -9,10 +9,10 @@ public class LoginForm
     public LoginForm(){
         
     }
-    @NotEmpty
+//    @NotEmpty
     private String email ;
 
-    @NotEmpty
+//    @NotEmpty
     private String password;
 
 

@@ -3,7 +3,7 @@ package com.neu.edu.stocktrading.controller;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import com.neu.edu.stocktrading.model.User;
 import com.neu.edu.stocktrading.service.AdminService;

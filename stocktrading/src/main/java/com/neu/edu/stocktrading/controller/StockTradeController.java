@@ -7,9 +7,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
-import com.mysql.cj.Session;
+import java.sql.Connection;
+
 import com.neu.edu.stocktrading.model.Trade;
 import com.neu.edu.stocktrading.model.Transaction;
 import com.neu.edu.stocktrading.model.User;

@@ -3,11 +3,22 @@ package com.neu.edu.stocktrading.dao;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.persistence.EntityManager;
-import javax.persistence.PersistenceContext;
-import javax.persistence.TypedQuery;
 
-import javax.transaction.Transactional;
+
+
+
+
+
+
+
+
+
+
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.PersistenceContext;
+import jakarta.persistence.TypedQuery;
+
+import jakarta.transaction.Transactional;
 
 import com.neu.edu.stocktrading.model.User;
 

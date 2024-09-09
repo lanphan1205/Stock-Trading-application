@@ -2,8 +2,8 @@ package com.neu.edu.stocktrading.controller;
 
 import java.io.IOException;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
 import com.neu.edu.stocktrading.model.User;
 import com.neu.edu.stocktrading.model.UserBankDetails;
